@@ -1,0 +1,14 @@
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\bin\Release\AutoResumeFiller.exe
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\bin\Release\AutoResumeFiller.pdb
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\MainWindow.g.cs
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\App.g.cs
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller_MarkupCompile.cache
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller_MarkupCompile.lref
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\MainWindow.baml
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.g.resources
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.Properties.Resources.resources
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.csproj.GenerateResource.cache
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.csproj.CoreCompileInputs.cache
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.exe
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.pdb
+C:\Users\kraig\source\repos\AutoResumeFiller\AutoResumeFiller\obj\Release\AutoResumeFiller.csprojAssemblyReference.cache
